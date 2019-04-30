@@ -19,6 +19,6 @@ public class RandomCharsGenerator {
             code = code + str.charAt(pos);
         }
 
-        System.out.println("Generated code: " + code);
+        System.out.println("Generated code : " + code);
     }
 }
